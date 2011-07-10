@@ -1,3 +1,23 @@
 # Ignore OS generated files #
 #############################
 Thumbs.db
+
+# Ignore Visual Studio generated files #
+########################################
+*.pdb
+*.suo
+*.user
+*.userprefs
+*.scc
+*.vspscc
+*.vssscc
+*.[Cc]ache
+*.[Pp]ublish.xml
+[Oo]bj/
+[Bb]in/
+[Tt]est[Rr]esult*/
+
+# Ignore ReSharper generated files #
+####################################
+*.[Rr]e[Ss]harper*
+_[Rr]e[Ss]harper*/
